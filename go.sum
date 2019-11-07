@@ -1,0 +1,8 @@
+github.com/bmon/commonmod v0.0.0-20191107035328-c18a8160e2ce h1:1GzTog1oiNKDstL+LCCv2+szkl7a3Oc1+77WVDL/1OA=
+github.com/bmon/commonmod v0.0.0-20191107035328-c18a8160e2ce/go.mod h1:BFWcTJ17+jv9UwYF+KnCpwjtwFH7b4O/g0n/6pOQkkA=
+github.com/bmon/hellomod v1.0.2 h1:z/nsSTXJYIVneMg9rQ1bVRhcOJHmS8lSmVhdzdruVEY=
+github.com/bmon/hellomod v1.0.2/go.mod h1:vsCbq8+VWo7gvUaUDhfUvqiELg9fQ/XstzZP/4Ei2BU=
+github.com/bmon/hellomod/v2 v2.1.1 h1:R2PNUd/va9GufodaFifWwS7v/4L/YqfvFiP5Qn/CLHQ=
+github.com/bmon/hellomod/v2 v2.1.1/go.mod h1:ZBTTxVoNSWqRREXeONkl43wwlCkY5vu/j8gMIL4zf50=
+github.com/bmon/hellomod/v2 v2.2.0 h1:0X8BJ8J8Gsbll7tjZ1xacK8Yupv/lzFiXdHw173fFgI=
+github.com/bmon/hellomod/v2 v2.2.0/go.mod h1:ZBTTxVoNSWqRREXeONkl43wwlCkY5vu/j8gMIL4zf50=
